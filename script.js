@@ -1,4 +1,4 @@
-// script.js
+// script.js.
 const oceanFacts = [
     "The ocean covers more than 70% of the Earth's surface.",
     "The Mariana Trench is the deepest part of the ocean, reaching depths of over 36,000 feet.",
